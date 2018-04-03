@@ -1,0 +1,24 @@
+{
+  "name": "mod-24-testy_task_01_formatTime",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha index.test.js",
+    "test:watch": "mocha -w -b index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3mik/mod-24-testy_task_01_formatTime.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3mik/mod-24-testy_task_01_formatTime/issues"
+  },
+  "homepage": "https://github.com/3mik/mod-24-testy_task_01_formatTime#readme",
+  "devDependencies": {
+    "mocha": "^5.0.5"
+  }
+}
